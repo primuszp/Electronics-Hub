@@ -3,11 +3,11 @@
 
 Jelen műszaki dokumentáció az alábbi fő fejezetekből áll:
 
-- [Sanguino ismertető](#sanguino-ismerteto)
+- [Sanguino ismertető](#sanguino-ismertető)
 - [Sanguino próbapanelen](#sanguino-próbapanelen)
-- [Sanguino nyomtatott áramkörön](#sanguino-nyomtatott-aramkoron)
-- [Szoftverkörnyezet telepítése](#sanguino-szoftverkornyezet)
-- [Programozó bekötése](#programozo-bekotese)
+- [Sanguino nyomtatott áramkörön](#sanguino-nyomtatott-áramkörön)
+- [Szoftverkörnyezet telepítése](#sanguino-szoftverkörnyezet)
+- [Programozó bekötése](#programozó-bekötése)
 
 Remélem sokaknak megjön a kedve egy Arduino alapú fejlesztőpanel megépítéséhez ezen leírás alapján.
 
@@ -133,11 +133,11 @@ Első példaprogramunk feltöltéséhez az USB programozót kell a panelhez ille
 Magyarázat:
 
 - GND : Föld
-- CTS : Clear to send
+- CTS : Clear To Send
 - VCC : +5V
 - TXD : Adás (kimenet)
 - RXD : Vétel (bemenet)
-- RTS : Request to send
+- DTR : Data Terminal Ready
 
 Sanguino oldalon hasonló, csak TX és RX lábak vannak felcserélve.
 
