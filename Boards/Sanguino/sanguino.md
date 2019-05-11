@@ -73,7 +73,7 @@ Célszerű a dugaszolós próbapanelen összerakott Sanguino kapcsolást nyomtat
 
 Első feladatunk, hogy meglátogassuk a Sanguino Wiki oldalát és onnan letöltsük a Sanguino panel nyomtatott áramkör terveit. Sajnos a megadott link már nem működik, de a [Google Code archívumából][8] még elérhetőek:
 
-[Sanguino PCB letöltése][8]
+[>>> Sanguino PCB letöltése <<<][8]
 
 A panel rajzolata EAGLE szoftverben készült, de szerencsére a Gerber fájlok is mellékelve vannak, így elég csak azt kedvenc gyártónk számára átküldeni. Akik nem annyira jártasak ezen a területen azok kész panelt is [rendelhetnek][10].
 
